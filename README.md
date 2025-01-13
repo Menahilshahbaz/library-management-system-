@@ -27,6 +27,28 @@ Represents a member with attributes for student ID and the title of the book the
 ### Library:
 Acts as the system's backend to manage books and members.
 
+                                                       VISUAL VIEW:
+### Main page:
+![main page](https://github.com/user-attachments/assets/d79238ba-2e6e-4674-bd17-1d2ed004a942)
+
+### Add book:
+![add book](https://github.com/user-attachments/assets/4cc72ce9-2155-4ee5-808c-f9dad2a3365d)
+
+### search book:
+![search book](https://github.com/user-attachments/assets/3bfa8a78-8d0d-4a21-85c1-570df47b4833)
+
+### issue book:
+![issue](https://github.com/user-attachments/assets/b050937f-5b52-485d-811e-40fb1e91b37f)
+
+### remove book:
+![remove](https://github.com/user-attachments/assets/76420feb-ae1a-4c37-9114-347a153c07d7)
+
+
+
+
+
+
+
                                                        
 
 
